@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+cx_Oracle
+PyMySQL
+psycopg2-binary
+openai
+pyjwt
