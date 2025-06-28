@@ -6,3 +6,5 @@ PyMySQL
 psycopg2-binary
 openai
 pyjwt
+pandasai
+sqlachemy
